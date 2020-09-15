@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css">
 </HEAD>
 <BODY>
-    <H1>DevOps Final - Shai Volvovsky</H1>
+    <H1>DevOps Final ->>> Shai Volvovsky</H1>
     <div class="architecture">
     <img class="block" src="project-architecture.svg" alt="">
     <div class="compose">
